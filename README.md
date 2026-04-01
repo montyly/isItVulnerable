@@ -48,13 +48,13 @@ We evaluated IsItVulnerable on a wide range of real-world targets and observed t
 
 # FAQ
 - Does it really find all bugs?
+  - Yes.
 
-Yes.
+- What kinds of bugs does it detect?
+   - All of them.
 
-# What kinds of bugs does it detect?
+- Does it produce false positives?
+  - We are optimistic, so we do not believe positives can be false.
 
-All of them.
 
-# Does it produce false positives?
-
-We are optimistic, so we do not believe positives can be false.
+**Released on April 1st 2026**
