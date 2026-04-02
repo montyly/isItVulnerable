@@ -1,3 +1,5 @@
+*This was an Aprils fools' day: https://x.com/Montyly/status/2039214527934353517*
+
 # IsItVulnerable
 
 State-of-the-art vulnerability detection that found 100% of the bugs.
